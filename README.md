@@ -29,12 +29,10 @@ I am a Data Scientist with a background in Web Developer and Quality Control Man
 - **MSc in Cybersecurity**  
   *University of West London*  
   *October 2022 - Present*  
-  - Coursework includes secure software engineering, applied cryptography, cloud security assurance, network security and cryptography, and software vulnerability analysis and protection.
-
 - **BE in Information Technology**  
   *Sardar Patel College of Engineering*  
   *June 2018 - July 2022*  
-  - Coursework included database management systems, computer networks, operating systems, and data structures and algorithms.
+
 
 ### **Skills:**
 
