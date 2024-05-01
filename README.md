@@ -1,9 +1,7 @@
 
 # Hi there, I'm [Viren Vaghasiya!](#) <img src="https://github.com/vishwasracharya/Personal-Assets/blob/main/gif/Hi.gif" width="25">
 
-<a href="https://twitter.com/viren_vaghasiya">
-  <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-</a>&ensp;
+
 <a href="https://www.linkedin.com/in/viren-vaghasiya">
   <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>&ensp;
@@ -15,7 +13,7 @@
 
 ### **About Me:**
 
-I am a Web Developer with a background in Data Science and Quality Control Management. I specialize in creating and maintaining web applications, utilizing my skills in Python, Django, and data visualization to deliver impactful solutions. I also have experience in quality control management, ensuring compliance and efficiency in food preparation and service.
+I am a Data Scientist with a background in Web Developer and Quality Control Management. I specialize in creating and maintaining web applications, utilizing my skills in Python, Django, and data visualization to deliver impactful solutions. I also have experience in quality control management, ensuring compliance and efficiency in food preparation and service.
 
 ### **Experience:**
 
