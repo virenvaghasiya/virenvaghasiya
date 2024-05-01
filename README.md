@@ -49,10 +49,8 @@ I am a Data Scientist with a background in Web Developer and Quality Control Man
 
 - **Customer Segmentation System:**  
   - Created a system using k-means clustering in Python and Django, optimizing customer mix and boosting profitability by 30%.
-
 - **Android App for Students and Educators:**  
   - Developed an app for resource sharing, resulting in a 50% increase in retention.
-
 - **Movie Recommendation System:**  
   - Engineered a recommendation system using Anaconda and Jupyter Notebook, increasing user engagement by 40% and premium subscriptions by 25%.
 
@@ -67,4 +65,4 @@ I am a Data Scientist with a background in Web Developer and Quality Control Man
 - Complete NodeJS course with express, socket, and MongoDB
 - Spatial Analysis & Geospatial Data Science in Python
 
--->
+
