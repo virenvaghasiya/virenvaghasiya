@@ -11,36 +11,18 @@
 
 ---
 
-### **About Me:**
+### About Me 🚀
+
+
 
 I am a Data Scientist with a background in Web Developer and Quality Control Management. I specialize in creating and maintaining web applications, utilizing my skills in Python, Django, and data visualization to deliver impactful solutions. I also have experience in quality control management, ensuring compliance and efficiency in food preparation and service.
 
-### **Experience:**
+### My Experiences 🙌
 
-- **Quality Control Manager**  
-  *Five Guys Europe, London*  
-  *November 2023 - Present*  
-  - Implemented cross-departmental collaboration and real-time monitoring, boosting food safety compliance metrics by 20%.
-  - Improved overall dining experience satisfaction by 15% through feedback analysis and audits.
-  - Reduced violations by 30% through regular inspections.
+- **Quality Control Manager (Five Guys Europe):** Managed office operations and IT systems to support quality control processes, enhancing data management efficiency. Oversaw the implementation of service standards, raising the quality of customer service. Conducted detailed audits and adjusted protocols to ensure continuous adherence to health and safety guidelines, fostering an environment of excellence.
+- **Data Scientist (BrainyBeam Technologies):** Spearheaded customer segmentation initiatives, boosting conversion rates by 20%, and improved decision-making processes by 15% through data analysis.
+- **Web Developer (NMR Enterprise):** Resolved bugs, decreasing website loading time by 30%, and increased website traffic by 40% with intuitive interfaces.
 
-- **Crew Member**  
-  *Five Guys Europe, London*  
-  *October 2022 - November 2023*  
-  - Maintained cleanliness standards, reducing customer complaints by 25%.
-  - Improved customer satisfaction scores by 10% through exceptional service strategies.
-
-- **Data Scientist**  
-  *BrainyBeam Technologies, Ahmedabad*  
-  *June 2021 - June 2022*  
-  - Spearheaded customer segmentation initiatives, boosting conversion rates by 20%.
-  - Enhanced decision-making processes by 15% through data analysis and visualization.
-
-- **Web Developer**  
-  *NMR Enterprise, Ahmedabad*  
-  *May 2021 - June 2021*  
-  - Resolved bugs, decreasing website loading time by 30%.
-  - Increased website traffic by 40% with intuitive interfaces and mobile-responsive design, boosting mobile traffic by 30%.
 
 ### **Education:**
 
